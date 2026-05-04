@@ -62,8 +62,3 @@ streamlit run app.py
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garima0012/ai-resume-analyzer/blob/main/AI_Resume_Analyzer.ipynb)
 
----
-
-## 📄 License
-
-MIT © [Garima](https://github.com/garima0012)
